@@ -2,6 +2,8 @@
 <br/>
 > Status: Developing
 <br/>
+<br/>
+<br/>
 
 ![rastrosBoard](https://user-images.githubusercontent.com/76015450/178156247-7aec03bd-afee-4c0b-a00c-56383e039a48.png)
 <br/>
