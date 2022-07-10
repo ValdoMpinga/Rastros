@@ -11,11 +11,9 @@
  <a href="https://pt.wikipedia.org/wiki/Minimax">Minimax algorithm</a> using Java lanuage. The minimax algorithm is still to be concluded.
  
 <br/>
-<br/>
 
 ![rastrosBoard](https://user-images.githubusercontent.com/76015450/178156247-7aec03bd-afee-4c0b-a00c-56383e039a48.png)
 
-<br/>
 <br/>
 
 # Architecture
