@@ -2,6 +2,13 @@
 <br/>
 > Status: Developing
 <br/>
+<a href="https://www.youtube.com/watch?v=A2PWzrSsO5g">Rastros</a> is a fun board game which the goal is to get to the oponent's home.
+ This was a college work which the goal was to make the students explore pathfinding AI algorithms, in this case the goal was to implement 
+ <a href="https://pt.wikipedia.org/wiki/Minimax">Minimax algorithm</a> using Java lanuage. The minimax algorithm is still to be concluded.
+ <br/>
+<br/>
+
+<br/>
 <br/>
 <br/>
 
@@ -9,11 +16,6 @@
 <br/>
 <br/>
 
- <a href="https://www.youtube.com/watch?v=A2PWzrSsO5g">Rastros</a> is a fun board game which the goal is to get to the oponent's home.
- This was a college work which the goal was to make the students explore pathfinding AI algorithms, in this case the goal was to implement 
- <a href="https://pt.wikipedia.org/wiki/Minimax">Minimax algorithm</a> using Java lanuage. The minimax algorithm is still to be concluded.
- <br/>
-<br/>
 
 
 # Architecture
