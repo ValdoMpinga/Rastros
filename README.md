@@ -1,9 +1,9 @@
 # Rastros
+
 <br/>
 
 > Status: Developing
 
-<br/>
 <br/>
 
 <a href="https://www.youtube.com/watch?v=A2PWzrSsO5g">Rastros</a> is a fun board game which the goal is to get to the oponent's home.
